@@ -2,7 +2,7 @@
 
 ### **Senior AI & Full-Stack Engineer | 10+ Years | AI, SaaS, Web, Mobile & Cloud**
 
-I build and architect production software for startups, SaaS companies, and growing businesses — from **0→1 products and AI systems to scalable full-stack platforms**.
+I build and architect production software for startups, SaaS companies, and enterprises — from **0→1 products and AI systems to scalable full-stack platforms**.
 
 My work spans **AI/LLM systems, RAG, agentic workflows, distributed backends, SaaS platforms, web/mobile applications, and cloud infrastructure**.
 
@@ -58,14 +58,17 @@ Cloud
 ---
 
 ## **🛠️ Technology**
-
 ### **Languages**
-
+- 🐍 **Python** | 📘 **TypeScript** | 🟨 **JavaScript** | 🛢️ **SQL** | ⚙️ **C++** | 🐹 **Go**
 ### **Frontend & Mobile**
-
+- ⚛️ **React.js** | ▲ **Next.js** | 🌬️ **Tailwind CSS** | 🎨 **Material UI**
+- 📱 **React Native** | 🦋 **Flutter**
 ### **Backend & Data**
-
+- 🟩 **Node.js** | ⚡ **FastAPI** | 🚂 **Express.js** | 🐍 **Django**
+- 🐘 **PostgreSQL** | 🍃 **MongoDB** | 🔴 **Redis** | 📊 **GraphQL**
 ### **AI & Cloud**
+- 🔥 **PyTorch** | 🧠 **TensorFlow** | 🤗 **Hugging Face** | 🦜🔗 **LangChain** | 🤖 **OpenAI API**
+- ☁️ **AWS / GCP** | 🐳 **Docker** | ☸️ **Kubernetes** | 🚀 **GitHub Actions**
 
 ---
 
@@ -174,11 +177,10 @@ I’m particularly interested in:
 
 ## **📫 Let’s Connect**
 
-**LinkedIn:** linkedin.com/in/your-profile
+**LinkedIn:** linkedin.com/in/your-profile](https://www.linkedin.com/in/jamalnasir01/
 
 **Portfolio:** yourwebsite.com
 
-**Email:** your@email.com
 
 If you’re building something technically challenging, feel free to reach out.
 
